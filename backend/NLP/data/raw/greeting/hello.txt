@@ -1,0 +1,128 @@
+Chào
+Hello
+Hế lô
+Chào bạn
+hey bot, giúp với
+xin chào, giúp tui với
+Hello bot,
+xin chào bạn
+xin chào bot
+Chào bot, ngày mới tốt lành
+Chào buổi sáng
+Chào buổi chiều,
+Chào buổi tối
+hello
+hi bot
+nè bot 
+Hi
+bot ơi, tui hỏi cái này tí
+bot ơi, tui có cái này muốn hỏi
+bot ơi
+aloooo
+aloo bot
+alooo bot ơi
+bot ??
+bot ơi
+bot đâu rồi ?
+Rất vui được gặp bạn.
+Lâu rồi không gặp.
+Chào bạn nhé.
+Hello again.
+Hế lô bạn.
+Chào bạn, cần sự giúp đỡ.
+Hey bot, có thể giúp được không?
+Xin chào, có thể giúp tôi được không?
+Hello bot, có thể giúp tôi với không?
+Xin chào bạn, cần một chút trợ giúp.
+Xin chào bot, bạn có thể giúp tôi không?
+Chào bot, chúc bạn một ngày mới tốt lành.
+Chào buổi sáng, bot.
+Chào buổi chiều, bot ơi.
+Chào buổi tối, bot.
+Hello there.
+Hi bot, cần trợ giúp một chút.
+Nè bot, cần bạn giúp đỡ một việc.
+Hi, bot.
+Bot ơi, tôi có một câu hỏi nhỏ.
+Bot ơi, tôi cần hỏi bạn một điều.
+Bot ơi, có người muốn nói chuyện với bạn.
+Alloooo.
+Aloo bot, bạn ở đâu đấy?
+Allooo bot ơi, bạn ở đâu mất rồi?
+Bot???
+Bot ơi, bạn đâu rồi vậy?
+Rất vui được gặp bạn lần nữa.
+Lâu rồi không gặp bạn, bot.
+Chào bạn, bot ơi.
+Hello, bot.
+Hế lô bot, có gì mới không?
+Chào bạn, bot ơi, bạn có thể giúp được không?
+Hey bot, cần sự giúp đỡ.
+Xin chào, bot ơi, bạn có thể giúp tôi với một vấn đề không?
+Hello bot, cần sự giúp đỡ của bạn.
+Xin chào bạn, bot ơi, có phải bạn đã quên tôi rồi không?
+Chào buổi sáng, bot ơi, bạn đã dậy chưa?
+Chào buổi chiều, bot, bạn đã làm gì trong cả ngày?
+Chào buổi tối, bot, bạn đã có kế hoạch gì cho tối nay chưa?
+Hello, bot, bạn có thể giúp tôi với một vấn đề nhỏ không?
+Hi bot, bạn ơi, tôi có một câu hỏi muốn hỏi.
+Nè bot, bạn có thể trả lời một câu hỏi cho tôi không?
+Hi, bot, tôi có một vấn đề cần sự giúp đỡ của bạn.
+Bot ơi, tôi cần bạn giúp một việc.
+Aloo bot, tôi có một câu hỏi muốn hỏi.
+Allooo bot, bạn ở đâu đấy?
+Bot, bạn ơi, bạn có thể giúp tôi không?
+Bot, bạn đâu rồi vậy?
+Rất vui được gặp bạn, bot.
+Lâu rồi không gặp bạn, bot, bạn có nhớ tôi không?
+Chào bot, bạn còn nhớ tôi không?
+Hello, bot, có gì mới không?
+Hế lô bot, bạn đã sẵn sàng làm việc chưa?
+Chào bạn, bot ơi, bạn có thể hỗ trợ tôi được không?
+Hey bot, tôi cần một ít giúp đỡ từ bạn.
+Xin chào, bot ơi, bạn có thể giải quyết vấn đề này không?
+Hello bot, có gì đó mà tôi muốn hỏi bạn.
+Xin chào bạn, bot ơi, bạn đã sẵn lòng nghe tôi nói chuyện chưa?
+Chào buổi sáng, bot, bạn đã có một ngày mới tốt lành chưa?
+Chào buổi chiều, bot, bạn đã làm gì vào buổi sáng?
+Chào buổi tối, bot, bạn đã chuẩn bị cho ngủ ngon chưa?
+Hello, bot, bạn có thể hỗ trợ tôi giải quyết một vấn đề không?
+Hi bot, tôi có một thắc mắc cần sự giúp đỡ của bạn.
+Nè bot, tôi muốn hỏi bạn một điều.
+Hi, bot, bạn có thể giúp tôi với một vấn đề không?
+Bot ơi, tôi cần một ít thông tin từ bạn.
+Aloo bot, bạn đâu rồi vậy?
+Allooo bot, bạn ở đâu đấy? Tôi cần bạn giúp đỡ.
+Bot, bạn có thể giúp tôi giải quyết vấn đề này không?
+Bot, bạn đâu rồi? Tôi cần sự giúp đỡ của bạn.
+Rất vui được gặp lại bạn, bot, bạn đã có một ngày tốt lành chưa?
+Lâu rồi không gặp, bot, bạn đã nhớ tôi chưa?
+Chào bạn, bot ơi, có gì mới không?
+Hello, bot, bạn có thể giúp tôi một chút không?
+Hế lô bot, tôi đến đây với một câu hỏi.
+Chào bạn, bot ơi, tôi cần một ít hỗ trợ từ bạn.
+Hey bot, bạn có thể giúp tôi với một vấn đề nhỏ không?
+Xin chào, bot ơi, bạn đã sẵn lòng nghe tôi nói chuyện chưa?
+Hello bot, có gì đó mà tôi muốn thảo luận với bạn.
+Xin chào bạn, bot ơi, bạn có thể giúp tôi giải quyết một vấn đề không?
+Chào buổi sáng, bot, bạn đã có một ngày mới tràn đầy năng lượng chưa?
+Chào buổi chiều, bot, tôi hy vọng bạn đã có một buổi trưa tốt lành.
+Chào buổi tối, bot, bạn đã sẵn sàng cho một đêm yên bình chưa?
+Hello, bot, có gì đó mà tôi cần bạn giúp đỡ.
+Hi bot, bạn có thể cung cấp cho tôi một số thông tin không?
+Nè bot, tôi đến đây với một câu hỏi cụ thể.
+Hi, bot, bạn có thể giúp tôi hiểu rõ hơn về một vấn đề không?
+Bot ơi, tôi cần một số lời khuyên từ bạn.
+Aloo bot, bạn đâu rồi vậy? Tôi cần sự hỗ trợ của bạn.
+Allooo bot, bạn có thể nghe tôi không? Tôi có một vấn đề muốn thảo luận.
+Bot, bạn đâu rồi? Tôi cần bạn giúp đỡ ngay bây giờ.
+Rất vui được gặp lại bạn, bot, bạn có tin rằng bạn có thể giúp tôi không?
+Lâu rồi không gặp, bot, tôi đã nhớ về cuộc trò chuyện của chúng ta.
+Chào bạn, bot ơi, còn nhớ tôi không?
+Hello, bot, có thể bạn giúp tôi một chút được không?
+Hế lô bot, tôi có một câu hỏi muốn đặt cho bạn.
+Chào bạn, bot ơi, bạn có thể hỗ trợ tôi với vấn đề này không?
+Hey bot, cần bạn giúp một chút.
+Xin chào, bot ơi, tôi muốn bạn giúp đỡ một việc.
+Hello bot, có điều gì đó tôi cần bạn giúp đỡ.
+Chào bạn, bot ơi, tôi cần một ít sự hỗ trợ từ bạn.

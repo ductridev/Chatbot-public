@@ -1,0 +1,171 @@
+Bạn là ai?
+bạn có thể làm gì?
+giới thiệu đi bot
+bạn có thể làm được gì?
+bạn có thể làm gì?
+Bạn tên gì?
+Giới thiệu bản thân
+Bot có thể làm gì vây?
+Khả năng của mày đến đâu?
+Khả năng của bạn đến đâu?
+Khả năng của bạn là gì
+hãy tự giới thiệu đi nào
+giới thiệu
+bạn là gì nào
+bạn có khả năng gì
+kỹ năng của bạn là gì?
+bot có khả năng gì hay không?
+who are you?
+bạn là ai
+Bot là gì vậy ?
+Bot là ai vậy ?
+Ai vậy ?
+Bạn là cái gì vậy ?
+Bot là ai ?
+Bạn tên là gì ? 
+bạn tên là gì ?
+Bot có thể làm gì ?
+bot có thể làm gì ?
+Giới thiệu về bot
+giới thiệu về bot
+bot làm được cái gì ?
+Bạn là ai trong số chúng ta?
+Bạn có thể thực hiện những nhiệm vụ gì?
+Hãy giới thiệu về bản thân bạn, bot.
+Bạn có thể thực hiện những tác vụ gì?
+Bot có khả năng thực hiện những gì?
+Bạn tên là gì, nào?
+Hãy tự giới thiệu một chút về bản thân bạn.
+Bot có thể làm được những việc gì vậy?
+Khả năng của bạn như thế nào?
+Bot có khả năng thực hiện những tác vụ gì không?
+Bot là ai, nào?
+Bạn có thể giới thiệu về bản thân được không?
+Bot có khả năng thực hiện những gì?
+Khả năng của bot là gì?
+Bạn có khả năng gì đặc biệt không?
+Bot có thể thực hiện những tác vụ gì không?
+Bot là ai trong số chúng ta?
+Bạn là ai trong số chúng ta?
+Bot là cái gì vậy?
+Bạn có thể tự giới thiệu một chút không?
+Bot có thể làm gì cho tôi?
+Bạn là một bot đúng không?
+Bot có thể làm được những gì?
+Giới thiệu về bot là gì?
+Bot có thể thực hiện những tác vụ gì?
+Bạn là một chương trình gì?
+Bạn có thể giới thiệu về bản thân không?
+Bot có khả năng thực hiện những công việc gì?
+Khả năng của bạn là gì?
+Bạn là một loại trí tuệ nhân tạo phải không?
+Bot là một loại công nghệ gì?
+Bot có thể làm những gì để giúp tôi?
+Bạn là một công cụ trò chuyện, phải không?
+Bot có thể tự giới thiệu được không?
+Khả năng của bạn là gì trong việc giải quyết vấn đề?
+Bạn có thể thực hiện những tác vụ cụ thể nào?
+Bot là một hệ thống tự động, phải không?
+Bạn có thể mô tả về bản thân được không?
+Bot có thể giải đáp những câu hỏi nào?
+Bạn là một loại phần mềm hỗ trợ, đúng không?
+Bot có thể làm những gì mà một người có thể làm không?
+Khả năng của bot là gì trong việc trợ giúp người dùng?
+Bạn là một chương trình máy tính, phải không?
+Bot là một loại công cụ trò chuyện, đúng không?
+Bot có thể tự giới thiệu mình không?
+Bạn là một ứng dụng trí tuệ nhân tạo, phải không?
+Bạn có thể tự giới thiệu về chức năng và tính năng của mình không?
+Bot có thể thực hiện những nhiệm vụ cụ thể nào cho người dùng?
+Khả năng và kỹ năng của bạn là gì?
+Bạn có thể giới thiệu về bản thân bằng một vài từ ngắn gọn không?
+Bot là một công cụ tự động được thiết kế để làm gì?
+Bot có thể thực hiện những chức năng cơ bản nào?
+Khả năng giải quyết vấn đề của bạn là gì?
+Bạn là một phần mềm được phát triển để thực hiện những nhiệm vụ gì?
+Bot là một trợ lý ảo, đúng không?
+Bot có thể mô tả về tính năng và ưu điểm của mình không?
+Khả năng trả lời các câu hỏi của bạn là gì?
+Bạn là một loại trí tuệ nhân tạo đặc biệt được phát triển cho mục đích gì?
+Bot là một công cụ tự động có thể tương tác với người dùng, phải không?
+Bot có thể cung cấp thông tin hoặc hỗ trợ với các vấn đề cụ thể nào?
+Bạn là một chương trình máy tính được thiết kế để thực hiện những công việc gì?
+Bot có khả năng thực hiện các chức năng nào để hỗ trợ người dùng?
+Khả năng của bạn trong việc giải quyết vấn đề là gì?
+Bạn là một loại công cụ trí tuệ nhân tạo được phát triển cho mục đích gì?
+Bot là một phần mềm tương tác, đúng không?
+Bot có thể mô tả về tính năng và ưu điểm của mình không?
+Khả năng giải quyết vấn đề của bạn là gì?
+Bạn là một trợ lý ảo được thiết kế để hỗ trợ người dùng, phải không?
+Bot có thể cung cấp thông tin hoặc hỗ trợ với các vấn đề cụ thể không?
+Bot là một chương trình máy tính tự động có thể thực hiện các tác vụ như thế nào?
+Bạn là một công cụ trí tuệ nhân tạo được phát triển để giúp người dùng, phải không?
+Bot có khả năng giải quyết các vấn đề cụ thể nào một cách tự động?
+Khả năng của bạn là gì trong việc hỗ trợ người dùng?
+Bạn là một phần mềm được tạo ra để thực hiện các tác vụ cụ thể, đúng không?
+Bot là một công cụ tự động có thể thực hiện những nhiệm vụ như thế nào?
+Bot có thể mô tả về chức năng và tính năng của mình một cách chi tiết không?
+Khả năng giải quyết vấn đề của bạn được đánh giá như thế nào?
+Bạn là một loại trí tuệ nhân tạo được phát triển để thực hiện các tác vụ nhất định, phải không?
+Bot là một công cụ tự động có thể hỗ trợ người dùng trong các nhiệm vụ cụ thể, đúng không?
+Bot có thể cung cấp thông tin, giúp đỡ hoặc giải đáp câu hỏi cho người dùng, đúng không?
+Bạn là một ứng dụng trí tuệ nhân tạo được phát triển để tương tác với người dùng, phải không?
+Bot có khả năng thực hiện các chức năng như gửi thông tin, trả lời câu hỏi, và thực hiện các tác vụ cụ thể, đúng không?
+Khả năng của bạn là gì trong việc cung cấp hỗ trợ và giải quyết các vấn đề cho người dùng?
+Bạn là một phần mềm được thiết kế để hỗ trợ người dùng thông qua tương tác trực tuyến, đúng không?
+Bot là một công cụ tự động có khả năng thực hiện các tác vụ được lập trình sẵn để giúp người dùng, phải không?
+Bot có thể mô tả về chức năng và tính năng của mình để người dùng hiểu rõ hơn về nó không?
+Khả năng giải quyết vấn đề của bạn được xác định dựa trên những gì?
+Bạn là một công cụ trí tuệ nhân tạo được phát triển để cung cấp thông tin, hỗ trợ và giải quyết các vấn đề cho người dùng, phải không?
+Bot là một ứng dụng được lập trình để thực hiện các nhiệm vụ nhất định để giúp người dùng, đúng không?
+Bot có thể cung cấp thông tin, giúp đỡ và thực hiện các tác vụ dựa trên yêu cầu của người dùng, đúng không?
+Bạn là một chương trình trí tuệ nhân tạo có khả năng tương tác với người dùng, phải không?
+Bot có thể hỗ trợ người dùng bằng cách cung cấp thông tin, giải quyết vấn đề và thực hiện các tác vụ cụ thể, đúng không?
+Khả năng của bạn là gì trong việc xử lý yêu cầu và đáp ứng nhu cầu của người dùng?
+Bạn là một ứng dụng trí tuệ nhân tạo được thiết kế để cung cấp sự trợ giúp và hỗ trợ cho người dùng, phải không?
+Bot là một công cụ tự động có khả năng thực hiện các tác vụ được lập trình trước để giúp người dùng, đúng không?
+Bot có thể giải thích về tính năng và chức năng của mình để người dùng hiểu rõ hơn không?
+Khả năng giải quyết vấn đề của bạn được đánh giá dựa trên các yếu tố nào?
+Bạn là một phần mềm được phát triển để hỗ trợ người dùng thông qua tương tác trực tuyến, đúng không?
+Bot là một công cụ trí tuệ nhân tạo được thiết kế để thực hiện các nhiệm vụ nhất định để giúp người dùng, phải không?
+Bot có thể cung cấp thông tin, giúp đỡ và thực hiện các tác vụ dựa trên yêu cầu của người dùng, phải không?
+Bạn là một ứng dụng trí tuệ nhân tạo được lập trình để tương tác với người dùng, đúng không?
+Bot có khả năng cung cấp hỗ trợ bằng cách trả lời câu hỏi, giải quyết vấn đề và thực hiện các nhiệm vụ, đúng không?
+Khả năng của bạn là gì trong việc xử lý thông tin và đáp ứng nhu cầu của người dùng?
+Bạn là một chương trình trí tuệ nhân tạo được phát triển để cung cấp sự giúp đỡ và hỗ trợ cho người dùng, đúng không?
+Bot là một công cụ tự động có khả năng thực hiện các nhiệm vụ đã được lập trình để hỗ trợ người dùng, đúng không?
+Bot có thể giải thích về chức năng và tính năng của mình để người dùng hiểu rõ hơn không?
+Khả năng giải quyết vấn đề của bạn được đánh giá dựa trên những yếu tố nào?
+Bạn là một phần mềm được phát triển để hỗ trợ và giải quyết các vấn đề cho người dùng thông qua tương tác trực tuyến, đúng không?
+Bot là một công cụ trí tuệ nhân tạo được thiết kế để thực hiện các nhiệm vụ cụ thể để giúp người dùng, đúng không?
+Bot có thể cung cấp thông tin, giúp đỡ và thực hiện các nhiệm vụ theo yêu cầu của người dùng, đúng không?
+Bạn là một chương trình trí tuệ nhân tạo được phát triển để tương tác với người dùng, đúng không?
+Bot có khả năng cung cấp hỗ trợ bằng cách trả lời câu hỏi, giải quyết vấn đề và thực hiện các nhiệm vụ, phải không?
+Khả năng của bạn là gì trong việc xử lý thông tin và đáp ứng nhu cầu của người dùng?
+Bạn là một chương trình trí tuệ nhân tạo được phát triển để cung cấp sự giúp đỡ và hỗ trợ cho người dùng, phải không?
+Bot là một công cụ tự động có khả năng thực hiện các nhiệm vụ đã được lập trình để hỗ trợ người dùng, phải không?
+Bot có thể giải thích về chức năng và tính năng của mình để người dùng hiểu rõ hơn không?
+Khả năng giải quyết vấn đề của bạn được đánh giá dựa trên những yếu tố nào?
+Bạn là một phần mềm được phát triển để hỗ trợ và giải quyết các vấn đề cho người dùng thông qua tương tác trực tuyến, phải không?
+Bot là một công cụ trí tuệ nhân tạo được thiết kế để thực hiện các nhiệm vụ cụ thể để giúp người dùng, phải không?
+Bot có thể cung cấp thông tin, giúp đỡ và thực hiện các nhiệm vụ theo yêu cầu của người dùng, phải không?
+Bạn là một ứng dụng trí tuệ nhân tạo được tạo ra để tương tác với người dùng, phải không?
+Bot có khả năng hỗ trợ bằng cách trả lời câu hỏi, giải quyết vấn đề và thực hiện các tác vụ được giao, đúng không?
+Khả năng của bạn trong việc xử lý thông tin và đáp ứng nhu cầu của người dùng là gì?
+Bạn là một chương trình trí tuệ nhân tạo được phát triển để cung cấp sự giúp đỡ và hỗ trợ cho người dùng, phải không?
+Bot là một công cụ tự động có khả năng thực hiện các nhiệm vụ đã được lập trình để hỗ trợ người dùng, đúng không?
+Bot có thể giải thích về chức năng và tính năng của mình để người dùng hiểu rõ hơn không?
+Khả năng giải quyết vấn đề của bạn được đánh giá dựa trên những yếu tố nào?
+Bạn là một phần mềm được phát triển để hỗ trợ và giải quyết các vấn đề cho người dùng thông qua tương tác trực tuyến, phải không?
+Bot là một công cụ trí tuệ nhân tạo được thiết kế để thực hiện các nhiệm vụ cụ thể để giúp người dùng, đúng không?
+Bot có thể cung cấp thông tin, giúp đỡ và thực hiện các nhiệm vụ dựa trên yêu cầu của người dùng, đúng không?
+Bạn là một ứng dụng trí tuệ nhân tạo được phát triển để tương tác và hỗ trợ người dùng, phải không?
+Bot có khả năng giúp đỡ bằng cách trả lời câu hỏi, giải quyết vấn đề và thực hiện các tác vụ cụ thể, đúng không?
+Khả năng của bạn trong việc xử lý thông tin và phản hồi nhanh chóng là gì?
+Bạn là một chương trình trí tuệ nhân tạo được phát triển để cung cấp sự hỗ trợ cho người dùng, phải không?
+Bot là một công cụ tự động có khả năng thực hiện các nhiệm vụ đã được lập trình để giúp người dùng, phải không?
+Bot có thể giải thích về chức năng và tính năng của mình một cách rõ ràng không?
+Khả năng giải quyết vấn đề của bạn phụ thuộc vào các yếu tố như gì?
+Bạn là một phần mềm được phát triển để hỗ trợ và giải quyết các vấn đề cho người dùng thông qua tương tác trực tuyến, đúng không?
+Bot là một công cụ trí tuệ nhân tạo được thiết kế để thực hiện các nhiệm vụ cụ thể để hỗ trợ người dùng, phải không?
+Bot có thể cung cấp thông tin, giúp đỡ và thực hiện các tác vụ theo yêu cầu của người dùng, đúng không?
