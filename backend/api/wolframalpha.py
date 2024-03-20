@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-APP_ID = os.getenv('WOLFRALPHA_APP_ID')
+APP_ID = os.getenv('WOLFRAMALPHA_APP_ID')
 client = wolframalpha.Client(APP_ID)
 
 from googletrans import Translator

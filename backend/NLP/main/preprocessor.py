@@ -73,10 +73,3 @@ class Preprocessor:
                     label = os.path.splitext(raw_file)[0]
                     df = self.tokenize_file(input_path=input_file_path,label=label)
                     self.save_csv(df, self.csv_path)
-
-
-if __name__ == "__main__":
-    p = Preprocessor()
-    print("Start preprocessing ... ")
-    p.run()
-    print("Done !")

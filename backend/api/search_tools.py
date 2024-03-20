@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-appId = os.getenv('WOLFRALPHA_APP_ID')
+appId = os.getenv('WOLFRAMALPHA_APP_ID')
 client = wolframalpha.Client(appId)
 
 

@@ -1,11 +1,8 @@
 from backend.NLP.main.preprocessor import Preprocessor as CustomPreprocessor  # NLP.main.
 from keras.callbacks import ModelCheckpoint, EarlyStopping
-from distutils.version import LooseVersion
-import gensim
 from keras import backend as K
 from sklearn.preprocessing import LabelEncoder
 from keras.layers import LSTM, Dense, Bidirectional, Conv1D, MaxPooling1D
-from gensim.models import KeyedVectors
 from keras.models import Sequential
 import keras
 import numpy as np
@@ -196,28 +193,3 @@ def classifier(keras_text_classifier, labels, content, is_general=True):
 
     results = keras_text_classifier.classify([content], label_dict=labels)
     return results[0]
-
-def train():
-    root_dir = os.getcwd().replace('\\', '/')
-    data_path = root_dir + '/backend/NLP/data/processed_data4.csv'
-
-    if LooseVersion(gensim.__version__) >= LooseVersion("1.0.1"):
-        from gensim.models import KeyedVectors
-        word2vec_model = KeyedVectors.load_word2vec_format(root_dir + '/backend/NLP/models/w2v.bin', binary=True)
-    else:
-        from gensim.models import Word2Vec
-        word2vec_model = Word2Vec.load(root_dir + '/backend/NLP/models/w2v.bin', binary=True)
-
-    keras_text_classifier = TextClassifier(word2vec_dict=word2vec_model, model_path=root_dir + '/backend/NLP/models/sentiment_model7.weights.h5',
-                                            max_length=50, n_epochs=1000)
-    X, y = keras_text_classifier.load_data(data_path)
-    keras_text_classifier.train(X, y)
-
-    content = 'Võ Nguyên Giáp là ai vậy?'
-
-    labels = keras_text_classifier.get_label(data_path)
-
-    test = keras_text_classifier.classify([content], label_dict=labels)
-    print(test)
-
-# train()
