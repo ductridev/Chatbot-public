@@ -73,13 +73,6 @@ Here's how to use Chatbot Support In Studying just need 2 steps:
 1. Open url is given from frontend (usually is [localhost](http://localhost:3000)):
 2. Chat with bot!!!
 
-## Examples
-Here are some examples demonstrating the usage of Chatbot Support In Studying:
-
-1. [Example 1: Describe the first example]
-2. [Example 2: Describe the second example]
-3. [Example 3: Describe the third example]
-
 ## Troubleshooting
 If you encounter any issues while using Chatbot Support In Studying, consider the following troubleshooting tips:
 
